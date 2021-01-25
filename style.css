@@ -34,15 +34,15 @@ body {
 
 @media (min-width: 768px) {
    .container {
-      width: 750px; } }
+    width: 750px; } }
 
 @media (min-width: 992px) {
    .container {
-      width: 970px; } }
+    width: 970px; } }
 
 @media (min-width: 1200px) {
    .container {
-      width: 1170px; } }
+    width: 1170px; } }
 
 .kodilla-heading--main {
    margin: 20px auto;
@@ -99,7 +99,7 @@ body {
    display: block; }
 
 .datatable__field-value {
-   margin-bottom: 0;
+  margin-bottom: 0;
    font-size: 14px; }
 
 .datatable__row-section {
